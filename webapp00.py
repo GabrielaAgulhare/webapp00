@@ -13,4 +13,4 @@ st.header("BENTÃO ESTEVE AQUI")
 st.subheader("ELT-2022")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("REGINA PREFERE ELT, A AMOIR QUE ESTÁ TENDO>>>")
+st.write("REGINA PREFERE ELT, A MAIOR QUE ESTÁ TENDO>>>")
